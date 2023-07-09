@@ -40,7 +40,7 @@ const MainNav = () => {
               </Link>
             </li>
             <li className="nav-item  nav__link">
-              <Link className="nav-link" to="/trending">
+              <Link className="nav-link" to="/treading">
                 <WhatshotIcon
                   style={{
                     fontSize: "17px",
